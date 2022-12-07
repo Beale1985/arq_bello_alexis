@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/arq_bello_alexis/static/css/main.90195626.css",
+    "main.js": "/arq_bello_alexis/static/js/main.9c47354e.js",
+    "static/js/787.56ac6960.chunk.js": "/arq_bello_alexis/static/js/787.56ac6960.chunk.js",
+    "static/media/fondo-Home.jpg": "/arq_bello_alexis/static/media/fondo-Home.7c6748b09680ba7e88f7.jpg",
+    "static/media/4.jpg": "/arq_bello_alexis/static/media/4.7798e78bbdd18bfcbbfd.jpg",
+    "static/media/2.jpg": "/arq_bello_alexis/static/media/2.f906fad09b26fe5bb405.jpg",
+    "static/media/3.jpg": "/arq_bello_alexis/static/media/3.6eca8a58bb4125c5a9f1.jpg",
+    "static/media/5.jpg": "/arq_bello_alexis/static/media/5.a949e446a0bd65b5136e.jpg",
+    "static/media/6.jpg": "/arq_bello_alexis/static/media/6.4e168758265e13e91d1e.jpg",
+    "static/media/1.jpg": "/arq_bello_alexis/static/media/1.3fda5197fa31953c50ae.jpg",
+    "index.html": "/arq_bello_alexis/index.html",
+    "main.90195626.css.map": "/arq_bello_alexis/static/css/main.90195626.css.map",
+    "main.9c47354e.js.map": "/arq_bello_alexis/static/js/main.9c47354e.js.map",
+    "787.56ac6960.chunk.js.map": "/arq_bello_alexis/static/js/787.56ac6960.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90195626.css",
+    "static/js/main.9c47354e.js"
+  ]
+}
